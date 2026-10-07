@@ -1,0 +1,17 @@
+﻿__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+venv/
+.venv/
+env/
+.env
+
+.vscode/
+.idea/
+
+.DS_Store
+Thumbs.db
+
+comunidade_samuel_maggi_highscore.json
